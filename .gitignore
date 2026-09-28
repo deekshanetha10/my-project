@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environment and secrets
 .env
 .env.*
@@ -37,3 +38,13 @@ backend/models/checkpoints/
 .idea/
 .DS_Store
 Thumbs.db
+=======
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+>>>>>>> origin/main
