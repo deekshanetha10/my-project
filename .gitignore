@@ -48,3 +48,6 @@ coverage/
 .env*
 !.env.example
 >>>>>>> origin/main
+
+# Salesforce local files
+.sf/
